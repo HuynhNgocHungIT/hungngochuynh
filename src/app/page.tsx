@@ -1,4 +1,3 @@
-import Image from "next/image";
 import Introduce from "./components/Introduce";
 import Education from "./components/Education";
 import Experience from "./components/Experience";

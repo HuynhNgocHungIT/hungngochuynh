@@ -1,6 +1,6 @@
 import React from 'react';
 import { introduce } from '../data/introduce'
-import { FaLocationDot, FaPhone, FaVoicemail } from 'react-icons/fa6';
+import { FaLocationDot, FaPhone } from 'react-icons/fa6';
 import { MdEmail } from 'react-icons/md';
 export default function Introduce() {
     return (
